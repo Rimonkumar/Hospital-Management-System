@@ -1,0 +1,1247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|g:\\7th\\object oriented programming 2 [i]\\autodoc 4\\autodoc\\autodoc\\autodoc\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\nursevisitroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\nursevisitroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\termsconditionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\termsconditionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffpatientreporttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffpatientreporttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientmsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientmsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\nursemsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\nursemsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctormsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctormsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminmsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminmsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctoraptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctoraptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminpatientreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminpatientreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffsmedkitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffsmedkitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctormedicinelistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctormedicinelistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminhealthkitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminhealthkitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientmedicineshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientmedicineshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patienthistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patienthistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\admincontrolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\admincontrolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctorwritereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctorwritereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\nursedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\nursedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffmedicinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffmedicinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\nursecheckmedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\nursecheckmedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminmedicineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminmedicineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctordashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctordashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffsdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffsdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffsmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffsmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffsmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffsmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctormsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctormsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminmedicineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminmedicineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\admincontrolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\admincontrolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientmsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientmsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\nurseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\nurseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminmsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminmsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffpatientreporttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffpatientreporttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctoraptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctoraptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctorwritereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctorwritereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctormedicinelistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctormedicinelistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctoraptform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctoraptform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\shareddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\shareddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminroomscontrolforrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminroomscontrolforrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminhealthkitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminhealthkitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffsmedkitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffsmedkitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patienthistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patienthistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\nursedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\nursedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffmedicinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffmedicinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminpatientreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminpatientreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\usersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\usersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\contributorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\contributorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminroomscontrolforrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminroomscontrolforrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\nursemsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\nursemsgform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\usersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\usersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffsmsg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffsmsg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminpatientreports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminpatientreports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctorsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctorsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\nurseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\nurseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\staffsdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\staffsdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\nursecheckmedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\nursecheckmedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\nursevisitroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\nursevisitroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\doctordashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\doctordashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\autodoc\\patientmedicineshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F67179-0DA7-4EAC-B0B3-D5653EE3BE44}|AutoDoc\\AutoDoc.csproj|solutionrelative:autodoc\\patientmedicineshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\sem7\\C#\\CURD\\AutoDoc\\autodoc\\doctordetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\sem7\\C#\\CURD\\AutoDoc\\autodoc\\staffsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\AdminNurseSchedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\sem7\\C#\\CURD\\AutoDoc\\autodoc\\adminnurseschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\sem7\\C#\\CURD\\AutoDoc\\autodoc\\adminstaffsschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminHealthKitsForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminHealthKitsForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminHealthKitsForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminHealthKitsForm.cs",
+              "RelativeToolTip": "AutoDoc\\AdminHealthKitsForm.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAwLEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:05:13.27Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StaffsMedKitsForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsMedKitsForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffsMedKitsForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsMedKitsForm.cs",
+              "RelativeToolTip": "AutoDoc\\StaffsMedKitsForm.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAADwv9UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:35:32.75Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientDashBoardForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientDashBoardForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientDashBoardForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientDashBoardForm.cs [Design]",
+              "RelativeToolTip": "AutoDoc\\PatientDashBoardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:15:31.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashBoard.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminDashBoard.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminDashBoard.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminDashBoard.cs [Design]",
+              "RelativeToolTip": "AutoDoc\\AdminDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:37:24.287Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NurseVisitRoomForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseVisitRoomForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\NurseVisitRoomForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\NurseVisitRoomForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:16:47.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "termsConditionsForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\termsConditionsForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\termsConditionsForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\termsConditionsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:54:27.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\PatientForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:54:21.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientMsgForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientMsgForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientMsgForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\PatientMsgForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:29:55.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffsForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffsForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:54:46.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffPatientReportTime.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffPatientReportTime.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffPatientReportTime.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\StaffPatientReportTime.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:58:13.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NurseMsgForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseMsgForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\NurseMsgForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\NurseMsgForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:56:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorMsgForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorMsgForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorMsgForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorMsgForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:06:39.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminMsgForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMsgForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminMsgForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMsgForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:10:04.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientAppointmentForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientAppointmentForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientAppointmentForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\PatientAppointmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:51:31.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorAptForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorAptForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorAptForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorAptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:06:44.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminPatientReports.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminPatientReports.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminPatientReports.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\AdminPatientReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:44:48.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StaffsMedKitsForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsMedKitsForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffsMedKitsForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsMedKitsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:59:52.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorMedicineListForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorMedicineListForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorMedicineListForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorMedicineListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:14:37.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminHealthKitsForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminHealthKitsForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminHealthKitsForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\AdminHealthKitsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:00:06.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PatientMedicineShop.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientMedicineShop.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientMedicineShop.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\PatientMedicineShop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:58:05.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PatientHistoryForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientHistoryForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientHistoryForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\PatientHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:06:04.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminControlForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminControlForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminControlForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\AdminControlForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:32:22.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DoctorWriteReportForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorWriteReportForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorWriteReportForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorWriteReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:06:23.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NurseDashBoard.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseDashBoard.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\NurseDashBoard.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\NurseDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:03:12.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StaffMedicineList.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffMedicineList.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffMedicineList.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\StaffMedicineList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:42:51.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NurseCheckMedForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseCheckMedForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\NurseCheckMedForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\NurseCheckMedForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:30:09.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminMedicineForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMedicineForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminMedicineForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMedicineForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:28:43.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\LoginForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\LoginForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:00:30.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DoctorDashboardForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorDashboardForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorDashboardForm.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:28:35.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StaffsDashBoard.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsDashBoard.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffsDashBoard.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:44:56.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StaffsMsg.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsMsg.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffsMsg.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsMsg.cs",
+              "RelativeToolTip": "AutoDoc\\StaffsMsg.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAowOMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:45:46.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\Program.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\Program.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\Program.cs",
+              "RelativeToolTip": "AutoDoc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:39:22.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\LoginForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\LoginForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\LoginForm.cs",
+              "RelativeToolTip": "AutoDoc\\LoginForm.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAiwGAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:07:49.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StaffsMsg.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsMsg.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffsMsg.cs",
+              "ToolTip": "T:\\Work\\project\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsMsg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:45:34.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DoctorMsgForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorMsgForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorMsgForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorMsgForm.cs",
+              "RelativeToolTip": "AutoDoc\\DoctorMsgForm.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAiwNUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:07:08.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminMedicineForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMedicineForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminMedicineForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMedicineForm.cs",
+              "RelativeToolTip": "AutoDoc\\AdminMedicineForm.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAArwHYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:29:46.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminControlForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminControlForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminControlForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminControlForm.cs",
+              "RelativeToolTip": "AutoDoc\\AdminControlForm.cs",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAUwFsBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:58:34.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DoctorsForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorsForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorsForm.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\DoctorsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:55:10.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PatientMsgForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientMsgForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientMsgForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientMsgForm.cs",
+              "RelativeToolTip": "AutoDoc\\PatientMsgForm.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAmwCsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:36:47.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NurseForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\NurseForm.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\NurseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:55:33.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminMainForm.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:56:24.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AdminMsgForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMsgForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminMsgForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMsgForm.cs",
+              "RelativeToolTip": "AutoDoc\\AdminMsgForm.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:02:47.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StaffPatientReportTime.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffPatientReportTime.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffPatientReportTime.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffPatientReportTime.cs",
+              "RelativeToolTip": "AutoDoc\\StaffPatientReportTime.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAACoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:58:25.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DoctorAptForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorAptForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorAptForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorAptForm.cs",
+              "RelativeToolTip": "AutoDoc\\DoctorAptForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:27:39.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DoctorWriteReportForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorWriteReportForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorWriteReportForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorWriteReportForm.cs",
+              "RelativeToolTip": "AutoDoc\\DoctorWriteReportForm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:13:18.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DoctorMedicineListForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorMedicineListForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorMedicineListForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorMedicineListForm.cs",
+              "RelativeToolTip": "AutoDoc\\DoctorMedicineListForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:24:05.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DoctorAptForm.Designer.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorAptForm.Designer.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorAptForm.Designer.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorAptForm.Designer.cs",
+              "RelativeToolTip": "AutoDoc\\DoctorAptForm.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAiwFkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:21:39.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SharedData.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\SharedData.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\SharedData.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\SharedData.cs",
+              "RelativeToolTip": "AutoDoc\\SharedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:25:40.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminRoomsControlForrm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminRoomsControlForrm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminRoomsControlForrm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminRoomsControlForrm.cs",
+              "RelativeToolTip": "AutoDoc\\AdminRoomsControlForrm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:12:02.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PatientHistoryForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientHistoryForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientHistoryForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientHistoryForm.cs",
+              "RelativeToolTip": "AutoDoc\\PatientHistoryForm.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwE4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:20:12.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NurseDashBoard.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseDashBoard.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\NurseDashBoard.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseDashBoard.cs",
+              "RelativeToolTip": "AutoDoc\\NurseDashBoard.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADgvxUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:03:14.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PatientDashBoardForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientDashBoardForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientDashBoardForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientDashBoardForm.cs",
+              "RelativeToolTip": "AutoDoc\\PatientDashBoardForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:06:30.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PatientForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientForm.cs",
+              "RelativeToolTip": "AutoDoc\\PatientForm.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAtwCwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:54:24.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DoctorsForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorsForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorsForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorsForm.cs",
+              "RelativeToolTip": "AutoDoc\\DoctorsForm.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAtwFYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:55:13.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PatientAppointmentForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientAppointmentForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientAppointmentForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientAppointmentForm.cs",
+              "RelativeToolTip": "AutoDoc\\PatientAppointmentForm.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAArwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:52:04.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "StaffMedicineList.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffMedicineList.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffMedicineList.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffMedicineList.cs",
+              "RelativeToolTip": "AutoDoc\\StaffMedicineList.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwLEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:03:52.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AdminPatientReports.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminPatientReports.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminPatientReports.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminPatientReports.cs",
+              "RelativeToolTip": "AutoDoc\\AdminPatientReports.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwEEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:53:08.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminMainForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMainForm.cs",
+              "RelativeToolTip": "AutoDoc\\AdminMainForm.cs",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAawIQBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:56:25.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserSignUpForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\UserSignUpForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\UserSignUpForm.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\UserSignUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:45:18.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ContributorsForm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\ContributorsForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\ContributorsForm.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\ContributorsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:14:25.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AdminRoomsControlForrm.cs [Design]",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminRoomsControlForrm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminRoomsControlForrm.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\AdminRoomsControlForrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:28:31.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "NurseMsgForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseMsgForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\NurseMsgForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseMsgForm.cs",
+              "RelativeToolTip": "AutoDoc\\NurseMsgForm.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwFgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:38:21.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserSignUpForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\UserSignUpForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\UserSignUpForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\UserSignUpForm.cs",
+              "RelativeToolTip": "AutoDoc\\UserSignUpForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwC0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:45:32.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "StaffsMsg.Designer.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsMsg.Designer.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffsMsg.Designer.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsMsg.Designer.cs",
+              "RelativeToolTip": "AutoDoc\\StaffsMsg.Designer.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAADgv3wAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:03:26.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "StaffsForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffsForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsForm.cs",
+              "RelativeToolTip": "AutoDoc\\StaffsForm.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAmwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:54:50.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "StaffsForm.Designer.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsForm.Designer.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffsForm.Designer.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsForm.Designer.cs",
+              "RelativeToolTip": "AutoDoc\\StaffsForm.Designer.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAADgv4sAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:22:20.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AdminPatientReports.Designer.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminPatientReports.Designer.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminPatientReports.Designer.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminPatientReports.Designer.cs",
+              "RelativeToolTip": "AutoDoc\\AdminPatientReports.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADgvzAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:19:48.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AdminMainForm.Designer.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminMainForm.Designer.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminMainForm.Designer.cs",
+              "RelativeToolTip": "AutoDoc\\AdminMainForm.Designer.cs",
+              "ViewState": "AQIAACACAAAAAAAAAAAcwDICAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:42:06.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "NurseForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\NurseForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseForm.cs",
+              "RelativeToolTip": "AutoDoc\\NurseForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAlwCQAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:55:36.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DoctorsForm.Designer.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorsForm.Designer.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorsForm.Designer.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorsForm.Designer.cs",
+              "RelativeToolTip": "AutoDoc\\DoctorsForm.Designer.cs",
+              "ViewState": "AQIAAHsBAAAAAAAAAAApwJABAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:20:15.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AdminDashBoard.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminDashBoard.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\AdminDashBoard.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\AdminDashBoard.cs",
+              "RelativeToolTip": "AutoDoc\\AdminDashBoard.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAD4vyMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:49:11.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "StaffsDashBoard.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsDashBoard.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\StaffsDashBoard.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\StaffsDashBoard.cs",
+              "RelativeToolTip": "AutoDoc\\StaffsDashBoard.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:22:55.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AdminNurseSchedule.cs",
+              "DocumentMoniker": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\AdminNurseSchedule.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\AdminNurseSchedule.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:15:18.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AdminNurseSchedule.cs [Design]",
+              "DocumentMoniker": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\AdminNurseSchedule.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\AdminNurseSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:15:15.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "NurseCheckMedForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseCheckMedForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\NurseCheckMedForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseCheckMedForm.cs",
+              "RelativeToolTip": "AutoDoc\\NurseCheckMedForm.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwGsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:32:44.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "NurseVisitRoomForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseVisitRoomForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\NurseVisitRoomForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\NurseVisitRoomForm.cs",
+              "RelativeToolTip": "AutoDoc\\NurseVisitRoomForm.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwDEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:21:05.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DoctorDashboardForm.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorDashboardForm.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\DoctorDashboardForm.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\DoctorDashboardForm.cs",
+              "RelativeToolTip": "AutoDoc\\DoctorDashboardForm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwC8AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:25:52.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PatientForm.Designer.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientForm.Designer.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientForm.Designer.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientForm.Designer.cs",
+              "RelativeToolTip": "AutoDoc\\PatientForm.Designer.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAqwLYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:53:01.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PatientMedicineShop.cs",
+              "DocumentMoniker": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientMedicineShop.cs",
+              "RelativeDocumentMoniker": "AutoDoc\\PatientMedicineShop.cs",
+              "ToolTip": "G:\\7th\\OBJECT ORIENTED PROGRAMMING 2 [I]\\AutoDoc 4\\AutoDoc\\AutoDoc\\AutoDoc\\PatientMedicineShop.cs",
+              "RelativeToolTip": "AutoDoc\\PatientMedicineShop.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:01:47.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DoctorDetailsForm.cs [Design]",
+              "DocumentMoniker": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\DoctorDetailsForm.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\DoctorDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:26:15.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AdminStaffSSchedule.cs [Design]",
+              "DocumentMoniker": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\AdminStaffSSchedule.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\AdminStaffSSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:20:24.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "StaffsDetails.cs [Design]",
+              "DocumentMoniker": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\StaffsDetails.cs",
+              "ToolTip": "T:\\sem7\\C#\\CURD\\AutoDoc\\AutoDoc\\StaffsDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:45:08.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
